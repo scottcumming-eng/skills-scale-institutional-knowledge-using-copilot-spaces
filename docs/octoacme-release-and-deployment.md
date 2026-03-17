@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+See also: [Project Kickoff & Handoff Checklist — Execution → Release section](./octoacme-kickoff-and-handoff-checklist.md) for the full cross-functional pre-release checklist, and the [RACI & Role Interaction Matrix](./octoacme-raci-matrix.md) for release-phase ownership.
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call
