@@ -31,3 +31,5 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+See also: [Project Kickoff & Handoff Checklist — Release → Retrospective section](./octoacme-kickoff-and-handoff-checklist.md) for post-release accountability steps, and the [RACI & Role Interaction Matrix](./octoacme-raci-matrix.md) for retrospective ownership.

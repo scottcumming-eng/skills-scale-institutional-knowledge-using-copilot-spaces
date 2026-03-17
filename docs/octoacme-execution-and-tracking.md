@@ -38,3 +38,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+See also: [Project Kickoff & Handoff Checklist](./octoacme-kickoff-and-handoff-checklist.md) for phase-by-phase handoff accountability, and the [RACI & Role Interaction Matrix](./octoacme-raci-matrix.md) for execution-phase ownership.

@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+See also: [Project Kickoff & Handoff Checklist](./octoacme-kickoff-and-handoff-checklist.md) for a full cross-functional handoff guide, and the [RACI & Role Interaction Matrix](./octoacme-raci-matrix.md) for ownership across planning activities.

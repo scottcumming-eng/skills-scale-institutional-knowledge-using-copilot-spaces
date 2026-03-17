@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For full role definitions — including Scrum Master, UX Designer, DevOps Engineer, and Data Analyst — see [Roles & Personas](./octoacme-roles-and-personas.md). For a quick ownership reference, see the [RACI & Role Interaction Matrix](./octoacme-raci-matrix.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
